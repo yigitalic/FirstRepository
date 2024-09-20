@@ -1,0 +1,3 @@
+#firstrepository
+
+Git denemesi yapıyorum
